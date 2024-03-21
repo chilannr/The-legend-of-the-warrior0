@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 744562a566a8ced41b29fdaf418c583a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1006
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782b1e20b0582d4e8c4125ccc486c17
+      internalID: 900318647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 258
+        width: 330
+        height: 766
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ea125ace07b8f47b73d9044b3700c3
+      internalID: -1473898933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 956
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effede19f29a13948b83655a1852ce21
+      internalID: -1798278744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 898
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2d96123aacba43a0dd7c04fcc55d9
+      internalID: 1805542815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 926
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c21af0ced212d04a93f69074bd4e2c5
+      internalID: 409147883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 900
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978571334fc7f5f4f99835511b215d68
+      internalID: 1793878699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 898
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f7c74785f84c478cc4e84dcd2b628
+      internalID: -473292928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 830
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d60900b37acf041882d42575686e6f
+      internalID: 237400130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 830
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af86a44b15936946971a71a4930dcc4
+      internalID: -1997644004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 846
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e383ca969363074490f76efa664e2c2
+      internalID: 1642604352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 580
+        width: 150
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213be16b0685fce46913d5e6009cc8b9
+      internalID: 1469289348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 734
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1cc9ccda65a454380d74632495c430
+      internalID: -566599502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 771
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602bbba038a4064186587cc817df53e
+      internalID: 1023037729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 462
+        width: 252
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eddb7651ee3b141b95dfe73f7235bf
+      internalID: -1151815677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_15
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 578
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534db344b766444f8ed97fbc84241d7
+      internalID: -1072059962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 508
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ca597daac5a14191a7077e67714c2
+      internalID: -834246576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_18
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 524
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a59931220053439e814206be411c9
+      internalID: -2100544821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 256
+        width: 274
+        height: 266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58c73723211854795933d1267e7a64
+      internalID: 798788788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_20
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 484
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224ec8e5567d704daf3971879616287
+      internalID: -929673183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 450
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c401b2d09558564f8af58c03e802275
+      internalID: 1084014524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 382
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586279e481952bd408798cdf67ebab3b
+      internalID: -1162189769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff14fdfff12794f90fdd3193215545
+      internalID: -2104746469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 173
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261dbcd25db3d74da73998708dfded5
+      internalID: 783140897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 118
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1be2aba95418741bf18c38d4720078
+      internalID: 1297407653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 61
+        width: 238
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9ecb4c0ac9d354eb0d745354a63ab7
+      internalID: 917108526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 38
+        width: 230
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac2ade37dc6264cb443c047cbab4d0
+      internalID: 1320762949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_28
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2
+        width: 260
+        height: 264
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572a6f1a8546d84aa5e8b14a35dabff
+      internalID: -462298544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 62
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e369c30a51c514d9fbb81ec6dc172e
+      internalID: 681740399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 322
+        width: 216
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211de80375f90c4783efcc1ceba54f3
+      internalID: 34764704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bitflowering_cherry_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 322
+        width: 212
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517af4a460b6f9e44b26c7f393aa7d0e
+      internalID: 85140650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2-bitflowering_cherry_0: 34764704
+      2-bitflowering_cherry_1: 900318647
+      2-bitflowering_cherry_10: 1642604352
+      2-bitflowering_cherry_11: 1469289348
+      2-bitflowering_cherry_12: -566599502
+      2-bitflowering_cherry_13: 1023037729
+      2-bitflowering_cherry_14: -1151815677
+      2-bitflowering_cherry_15: -1072059962
+      2-bitflowering_cherry_16: 85140650
+      2-bitflowering_cherry_17: -834246576
+      2-bitflowering_cherry_18: -2100544821
+      2-bitflowering_cherry_19: 798788788
+      2-bitflowering_cherry_2: -1473898933
+      2-bitflowering_cherry_20: -929673183
+      2-bitflowering_cherry_21: 1084014524
+      2-bitflowering_cherry_22: -1162189769
+      2-bitflowering_cherry_23: -2104746469
+      2-bitflowering_cherry_24: 783140897
+      2-bitflowering_cherry_25: 1297407653
+      2-bitflowering_cherry_26: 917108526
+      2-bitflowering_cherry_27: 1320762949
+      2-bitflowering_cherry_28: -462298544
+      2-bitflowering_cherry_29: 681740399
+      2-bitflowering_cherry_3: -1798278744
+      2-bitflowering_cherry_4: 1805542815
+      2-bitflowering_cherry_5: 409147883
+      2-bitflowering_cherry_6: 1793878699
+      2-bitflowering_cherry_7: -473292928
+      2-bitflowering_cherry_8: 237400130
+      2-bitflowering_cherry_9: -1997644004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
