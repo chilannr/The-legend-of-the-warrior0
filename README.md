@@ -1,7 +1,6 @@
 # The legend of the warrior0
-## 基于M_Studio的《勇士传说》Unity2022版课程 
+## M_Studio的《勇士传说》Unity课程 
 https://space.bilibili.com/370283072/channel/collectiondetail?sid=1187255
-面向群体：—对游戏开发感兴趣的朋友（有无基础均可）—有编程思维和动手能力教程最终效果：—可以得到一个在全平台运行的游戏—教程也包括如何实现屏幕触控操作用于手机运行 你会学到什么：
 
 ·Unity 游戏引擎·编辑器常用工具使用方法·2D物理组件·动画控制器及动画制作·音乐与音效控制·场景结构
 
